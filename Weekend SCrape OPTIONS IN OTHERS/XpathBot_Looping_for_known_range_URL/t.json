@@ -1,0 +1,26 @@
+[
+{"name": "Posti- ja k\u00e4yntiosoite: Mannerheimintie 20b (6. krs), 00100 Helsinki"},
+{"name": "TIMO KANKURI"},
+{"name": "MIKI LEHTOM\u00c4KI"},
+{"name": "PETRI VIHERVUORI"},
+{"name": "TAINA SUSILUOTO"},
+{"name": "HELENA TARKKA"},
+{"name": "Tuokko Ltd, KHT \u2013yhteis\u00f6, p\u00e4\u00e4vastuullisena tilintarkastajana Jari Miikkulainen, KHT"},
+{"name": "Lis\u00e4tietoja Governian valtio-omistajasta Valtioneuvoston kanslian omistajaohjausosaston"},
+{"name": "Governia Oy"},
+{"name": "\ncontact@ast.fi"},
+{"name": "\nGovernia Oy"}
+]
+
+
+
+SETTINGS = {
+    'allowed_domains': 'https://www.burgenland.at',
+    'start_url': 'https://governia.fi/yhteystiedot/',
+    'parseType': 'xpath' #accepted values: xpath or css
+}
+#xpath to for general area and specific name
+CSS = {
+    'main': '//body', 
+    'name': '//*[@id="post-20"]/div/p/text()[1]',
+}

@@ -1,0 +1,283 @@
+https://www.udemy.com/scrapy-tutorial-web-scraping-with-python/
+
+
+https://www.freetutorials.eu/scrapy-powerful-web-scraping-crawling-with-python-5/
+
+
+
+
+Scrapy: Powerful Web Scraping & Crawling with Python
+Python Scrapy Tutorial - Learn how to scrape websites and build a powerful web crawler using Scrapy and Python
+
+
+
+
+BESTSELLER
+4.5 (976 ratings)
+5,206 students enrolled
+
+
+
+
+About the instructors
+
+GoTrained Academy
+eLearning Professionals
+Jose Martin 
+
+Lazar Telebak
+Scraping consultant
+
+
+
+
+
+
+
+
+Includes
+8.5 hours on-demand video
+
+
+Course content
+Collapse all  79 lectures
+09:00:24
+–
+Scrapy vs. Other Python Web Scraping Frameworks
+11:23
+Scrapy vs. Beautiful Soup vs. Selenium 
+Preview
+09:45
+Course Tips (Must Read)
+01:38
+–
+Scrapy Installation
+11:18
+Linux Scrapy Installation 
+03:17
+Mac Scrapy Installation 
+02:26
+Windows Scrapy Installation 
+03:01
+Scrapy Installation Instructions
+00:33
+Python Editor: Sublime Text
+02:01
+–
+Building Basic Spider with Scrapy
+34:13
+Scrapy Simple Spider - Part 1 
+Preview
+09:47
+Scrapy Simple Spider - Part 2
+Preview
+14:42
+Scrapy Simple Spider - Part 3
+Preview
+09:44
+–
+XPath Syntax
+08:19
+Using XPath with Scrapy
+07:09
+Tools to Easily Get XPath
+01:10
+–
+Q&A
+00:29
+Scrapy Basics
+9 questions
+Do you have questions so far?
+00:29
+XPath Syntax
+4 questions
+–
+Building More Advanced Spider with Scrapy
+38:01
+Scrapy Advanced Spider - Part 1 
+04:23
+Scrapy Advanced Spider - Part 2
+08:35
+Scrapy Advanced Spider - Part 3
+07:05
+Scrapy Advanced Spider - Part 4
+05:28
+Scrapy Architecture 
+12:30
+–
+Web Scraping Best Practices
+01:41
+Avoid Getting Banned!
+01:41
+–
+Do you want to scrape a specific website?
+00:39
+Do you want to scrape a specific website? Let's do it together!
+00:39
+–
+Deploying Scrapy Spider to ScrapingHub
+07:24
+Deploying Scrapy Spider to ScrapingHub 
+Preview
+07:24
+–
+Logging into Websites Using Scrapy
+17:02
+Logging into Websites Using Scrapy 
+17:02
+-
+Scrapy as a Standalone Script
+01:46
+Scrapy as a Standalone Script 
+01:46
+-
+Building Web Crawler with Scrapy
+10:26
+Building Web Crawler with Scrapy 
+10:26
+-
+Scrapy with Selenium
+23:53
+Why/When We Should Use Selenium
+01:04
+Selenium WebDriver + Scrapy Selector to Extract URLs 
+13:10
+Selenium Loading Next for Data Extraction (usable even with JavaScript pages) 
+08:38
+Getting Data
+01:00
+-
+Scrapy Spider - Books Store
+26:38
+Grabbing URLs
+07:57
+Data Extraction
+18:41
+-
+More about Scrapy
+15:11
+Scrapy Arguments
+02:31
+Scrapy Close Function
+02:46
+Scrapy Items
+09:54
+-
+Export Output to Files
+29:23
+Scrapy Feed Exports to CSV, JSON, or XML
+02:40
+Export Output to Excel (NEW)
+06:04
+Downloading Images with Scrapy Pipelines (NEW)
+10:15
+Renaming Images with Scrapy Pipelines (NEW)
+10:24
+-
+Scrapy Project #1: Scraping Craigslist Eng Jobs in NY
+51:19
+Craigslist Scraper - Overview
+00:35
+Creating Scrapy Craigslist Spider
+04:11
+Craigslist Scrapy Spider #1 – Titles
+09:45
+Craigslist Scrapy Spider #2 – One Page
+09:29
+Craigslist Scrapy Spider #3 – Multiple Pages
+07:40
+Craigslist Scrapy Spider #4 – Job Descriptions
+15:10
+Editing Scrapy settings.py
+03:47
+Final Scrapy Tutorial, Craigslist Spider Code
+00:42
+-
+Extracting Data to Databases - MySQL & MongoDB
+39:49
+Installing MySQL
+00:12
+MySQL Installation and Usage
+08:14
+Writing Data to MySQL
+14:39
+Installing MongoDB
+00:12
+MongoDB Installation and Usage
+07:49
+Writing Data to MongoDB
+08:43
+-
+Scrapy Project #2: Web Scraping Class-Central.com
+32:59
+Scraping Class-Central - Part 1: Subjects
+16:22
+Scraping Class-Central - Part 2: Courses
+16:02
+Class-Central Code Update
+00:35
+-
+Scrapy Advanced Topics (NEW)
+38:01
+Scrapy User Agent (NEW)
+02:31
+Scraping Tables (NEW)
+14:20
+Scraping JSON Pages (NEW)
+11:13
+Scrapy FormRequest (NEW) 
+09:57
+-
+Scrapy Project #3: Web Scraping eplanning.ie (NEW)
+01:01:07
+ePlanning Scraping Project Overview (NEW)
+00:52
+ePlanning: Extracting Initial URLs (NEW)
+06:41
+ePlanning: Crawling Internal Pages (NEW)
+04:47
+ePlanning: Scrapy Form Requests (NEW) 
+15:48
+ePlanning: Scraping Data (NEW) 
+11:13
+ePlanning: Checking Data Existence (NEW)
+06:12
+ePlanning: Scraping Data from Table (NEW)
+15:34
+-
+Project #4: Web Scraping LinkedIn.com (NEW)
+01:05:43
+LinkedIn Scraping Project: Overview & Requirements (NEW)
+02:27
+LinkedIn Logging in (NEW)
+10:09
+Finding LinkedIn Profiles: Part 1 (NEW)
+14:02
+Finding LinkedIn Profiles: Part 2 (NEW)
+04:43
+Scraping Data Points from LinkedIn Profiles: Part 1 (NEW)
+13:50
+Scraping Data Points from LinkedIn Profiles: Part 2 (NEW)
+12:49
+Connecting to LinkedIn Profiles (NEW)
+07:43
+-
+Solved Web Scraping Exercises
+13:48
+Yield Data Items from 2 Functions 
+01:00
+How to Order Exported Data
+00:26
+Xpath contains() and starts-with() functions
+01:02
+Extracting Hidden Phone Number with Selenium
+00:55
+Extracting Hidden Phone Number without Selenium
+01:14
+Using Multiple Proxies with Crawlera (Optional) 
+09:10
+-
+Bonus: Web Scraping with Beautiful Soup, Requests & Selenium Course
+01:05
+Coupon for "Web Scraping with Beautiful Soup, Requests & Selenium" Course
+01:05
